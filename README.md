@@ -1,4 +1,4 @@
 # pews
 Predator Early Warning System
 
-see Wiki link for details
+see [Wiki link](https://github.com/wadeolsson/pews/wiki) for details
