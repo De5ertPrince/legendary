@@ -1,0 +1,36 @@
+<annotation>
+    <folder>housecat</folder>
+    <filename>b88530500z1_20170112161233_001gidfgprp2-0-vv2vf8ybo0ywpa14kn2_ct677x380.jpg</filename>
+    <size>
+        <width>677</width>
+        <height>380</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>house cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>173</xmin>
+            <ymin>200</ymin>
+            <xmax>245</xmax>
+            <ymax>295</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>house cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>170</xmin>
+            <ymin>111</ymin>
+            <xmax>450</xmax>
+            <ymax>332</ymax>
+        </bndbox>
+    </object>
+</annotation>

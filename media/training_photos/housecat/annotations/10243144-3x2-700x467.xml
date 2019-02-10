@@ -1,0 +1,23 @@
+<annotation>
+    <folder>housecat</folder>
+    <filename>10243144-3x2-700x467.jpg</filename>
+    <size>
+        <width>700</width>
+        <height>467</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>house cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>165</xmin>
+            <ymin>9</ymin>
+            <xmax>613</xmax>
+            <ymax>443</ymax>
+        </bndbox>
+    </object>
+</annotation>

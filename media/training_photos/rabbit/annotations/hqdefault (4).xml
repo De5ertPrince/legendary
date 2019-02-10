@@ -1,0 +1,23 @@
+<annotation>
+    <folder>rabbit</folder>
+    <filename>hqdefault (4).jpg</filename>
+    <size>
+        <width>480</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>rabbit</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>176</xmin>
+            <ymin>126</ymin>
+            <xmax>303</xmax>
+            <ymax>318</ymax>
+        </bndbox>
+    </object>
+</annotation>

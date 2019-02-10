@@ -1,0 +1,23 @@
+<annotation>
+    <folder>mountain lion</folder>
+    <filename>mountain_lion_azgfd_screenshot_t715.jpg</filename>
+    <size>
+        <width>715</width>
+        <height>465</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>299</xmin>
+            <ymin>103</ymin>
+            <xmax>539</xmax>
+            <ymax>388</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>housecat</folder>
+    <filename>hqdefault (1sa).jpg</filename>
+    <size>
+        <width>480</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>house cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>164</xmin>
+            <ymin>143</ymin>
+            <xmax>245</xmax>
+            <ymax>214</ymax>
+        </bndbox>
+    </object>
+</annotation>
