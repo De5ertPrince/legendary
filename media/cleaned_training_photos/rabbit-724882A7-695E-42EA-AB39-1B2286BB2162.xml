@@ -1,0 +1,36 @@
+<annotation>
+    <folder>rabbit</folder>
+    <filename>cover.jpg</filename>
+    <size>
+        <width>1728</width>
+        <height>910</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>deer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1403</xmin>
+            <ymin>80</ymin>
+            <xmax>1719</xmax>
+            <ymax>877</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>deer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1118</xmin>
+            <ymin>307</ymin>
+            <xmax>1404</xmax>
+            <ymax>797</ymax>
+        </bndbox>
+    </object>
+</annotation>

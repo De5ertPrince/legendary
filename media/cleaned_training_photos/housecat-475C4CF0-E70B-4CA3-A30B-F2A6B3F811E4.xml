@@ -1,0 +1,36 @@
+<annotation>
+    <folder>housecat</folder>
+    <filename>burbidge-summary-2-fig-2-feral-cat-with-bandicoot-photo-wadec.jpg</filename>
+    <size>
+        <width>757</width>
+        <height>397</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>javelina</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>505</xmin>
+            <ymin>177</ymin>
+            <xmax>577</xmax>
+            <ymax>316</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>bobcat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>77</xmin>
+            <ymin>94</ymin>
+            <xmax>581</xmax>
+            <ymax>316</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>mountain lion</folder>
+    <filename>VNC_Cougar_cam.jpg</filename>
+    <size>
+        <width>788</width>
+        <height>461</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>270</xmin>
+            <ymin>195</ymin>
+            <xmax>535</xmax>
+            <ymax>306</ymax>
+        </bndbox>
+    </object>
+</annotation>
