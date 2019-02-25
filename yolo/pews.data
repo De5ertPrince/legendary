@@ -2,4 +2,4 @@ classes= 12
 train  = train_rel.txt
 valid  = test_rel.txt
 names = pews.names
-backup = backup/
+backup = backup
