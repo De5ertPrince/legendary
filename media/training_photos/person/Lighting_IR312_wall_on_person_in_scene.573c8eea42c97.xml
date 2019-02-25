@@ -1,0 +1,23 @@
+<annotation>
+    <folder>person</folder>
+    <filename>Lighting_IR312_wall_on_person_in_scene.573c8eea42c97.jpg</filename>
+    <size>
+        <width>960</width>
+        <height>633</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>414</xmin>
+            <ymin>316</ymin>
+            <xmax>487</xmax>
+            <ymax>412</ymax>
+        </bndbox>
+    </object>
+</annotation>

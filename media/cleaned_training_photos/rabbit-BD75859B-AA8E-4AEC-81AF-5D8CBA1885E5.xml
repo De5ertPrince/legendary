@@ -1,23 +1,10 @@
 <annotation>
-    <folder>rabbit</folder>
-    <filename>images.jpeg</filename>
+    <folder>cleaned_training_photos</folder>
+    <filename>rabbit-BD75859B-AA8E-4AEC-81AF-5D8CBA1885E5.jpg</filename>
     <size>
         <width>184</width>
         <height>273</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
-    <object>
-        <name>hippo</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>36</xmin>
-            <ymin>42</ymin>
-            <xmax>165</xmax>
-            <ymax>221</ymax>
-        </bndbox>
-    </object>
 </annotation>

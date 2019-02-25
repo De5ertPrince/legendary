@@ -1,6 +1,6 @@
 <annotation>
-    <folder>rabbit</folder>
-    <filename>hqdefault (3).jpg</filename>
+    <folder>cleaned_training_photos</folder>
+    <filename>rabbit-EBDBF032-BF3E-4F55-A5DC-FA7EE264BC6E.jpg</filename>
     <size>
         <width>480</width>
         <height>360</height>
@@ -15,8 +15,8 @@
         <difficult>0</difficult>
         <bndbox>
             <xmin>235</xmin>
-            <ymin>103</ymin>
-            <xmax>313</xmax>
+            <ymin>63</ymin>
+            <xmax>321</xmax>
             <ymax>201</ymax>
         </bndbox>
     </object>

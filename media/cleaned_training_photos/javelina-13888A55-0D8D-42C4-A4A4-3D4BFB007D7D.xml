@@ -1,0 +1,36 @@
+<annotation>
+    <folder>javelina</folder>
+    <filename>jav7asdasd.jpeg</filename>
+    <size>
+        <width>259</width>
+        <height>194</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>javelina</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>88</xmin>
+            <ymin>76</ymin>
+            <xmax>129</xmax>
+            <ymax>112</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>javelina</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>156</xmin>
+            <ymin>78</ymin>
+            <xmax>194</xmax>
+            <ymax>121</ymax>
+        </bndbox>
+    </object>
+</annotation>

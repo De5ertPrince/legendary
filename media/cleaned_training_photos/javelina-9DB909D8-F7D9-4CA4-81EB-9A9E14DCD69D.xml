@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>javelina-9DB909D8-F7D9-4CA4-81EB-9A9E14DCD69D.jpg</filename>
+    <size>
+        <width>275</width>
+        <height>183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>javelina</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>100</xmin>
+            <ymin>33</ymin>
+            <xmax>175</xmax>
+            <ymax>174</ymax>
+        </bndbox>
+    </object>
+</annotation>
