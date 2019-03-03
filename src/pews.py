@@ -106,20 +106,18 @@ def upload_image(image_path):
 
 
 def main():
-    # while true:
-    # 1. take photo
-    #    and save photo
     pews_path = '/home/pi/pews'
     image_path = '/tmp/camera_out.jpg'
-    take_photo(image_path)
-    results = run_yolo(pews_path, image_path, 'pews')
-    for label in results:
-        print(label + ' was detected with ' + results[label] + ' confidence')
-        if is_predator(label):
-            print(label + ' IS A PREDATOR! ALERT THE AUTHORITIES!')
-            output_image_path = upload_image(pews_path + '/yolo/predictions.jpg')
-            message = 'THERES A  PREDATOR!!!!!!!!!!!!: ' + label + ' detected with '+ results[label] + '% confidence'
-            send_sms(message, output_image_path)
+    while True:
+        take_photo(image_path)
+        results = run_yolo(pews_path, image_path, 'pews')
+        for label in results:
+            print(label + ' was detected with ' + results[label] + ' confidence')
+            if is_predator(label):
+                print(label + ' IS A PREDATOR! ALERT THE AUTHORITIES!')
+               output_image_path = upload_image(pews_path + '/yolo/predictions.jpg')
+               message = 'THERES A  PREDATOR!!!!!!!!!!!!: ' + label + ' detected with '+ results[label] + '% confidence'
+               send_sms(message, output_image_path)
 
 
 if __name__ == "__main__":
