@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>fox-A25174FD-128D-4411-924F-0B0D100D693F.JPG</filename>
+    <size>
+        <width>1498</width>
+        <height>1498</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fox</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>391</xmin>
+            <ymin>496</ymin>
+            <xmax>899</xmax>
+            <ymax>1060</ymax>
+        </bndbox>
+    </object>
+</annotation>

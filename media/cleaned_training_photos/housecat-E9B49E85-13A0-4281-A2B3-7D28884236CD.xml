@@ -1,0 +1,62 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>housecat-E9B49E85-13A0-4281-A2B3-7D28884236CD.jpg</filename>
+    <size>
+        <width>425</width>
+        <height>377</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>house cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>343</xmin>
+            <ymin>149</ymin>
+            <xmax>425</xmax>
+            <ymax>235</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>house cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>203</xmin>
+            <ymin>23</ymin>
+            <xmax>289</xmax>
+            <ymax>91</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>house cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>220</xmin>
+            <ymin>168</ymin>
+            <xmax>323</xmax>
+            <ymax>269</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>house cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>29</xmin>
+            <ymin>97</ymin>
+            <xmax>152</xmax>
+            <ymax>149</ymax>
+        </bndbox>
+    </object>
+</annotation>

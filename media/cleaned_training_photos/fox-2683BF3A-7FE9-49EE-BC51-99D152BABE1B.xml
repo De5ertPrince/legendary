@@ -1,0 +1,36 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>fox-2683BF3A-7FE9-49EE-BC51-99D152BABE1B.jpg</filename>
+    <size>
+        <width>480</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fox</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>191</xmin>
+            <ymin>208</ymin>
+            <xmax>369</xmax>
+            <ymax>341</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fox</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>143</xmin>
+            <ymin>238</ymin>
+            <xmax>213</xmax>
+            <ymax>310</ymax>
+        </bndbox>
+    </object>
+</annotation>

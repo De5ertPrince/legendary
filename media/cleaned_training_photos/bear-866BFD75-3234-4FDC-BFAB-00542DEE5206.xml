@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>bear-866BFD75-3234-4FDC-BFAB-00542DEE5206.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>298</xmin>
+            <ymin>173</ymin>
+            <xmax>467</xmax>
+            <ymax>473</ymax>
+        </bndbox>
+    </object>
+</annotation>

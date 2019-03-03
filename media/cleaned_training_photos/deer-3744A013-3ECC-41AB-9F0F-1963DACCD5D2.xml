@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>deer-3744A013-3ECC-41AB-9F0F-1963DACCD5D2.JPG</filename>
+    <size>
+        <width>600</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>raccoon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>100</xmin>
+            <ymin>189</ymin>
+            <xmax>286</xmax>
+            <ymax>418</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>housecat-FC1D0FA2-55C4-4E87-A86F-C0F34703FDDA.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>410</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>house cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>300</xmin>
+            <ymin>173</ymin>
+            <xmax>531</xmax>
+            <ymax>291</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>house cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>123</xmin>
+            <ymin>144</ymin>
+            <xmax>264</xmax>
+            <ymax>283</ymax>
+        </bndbox>
+    </object>
+</annotation>

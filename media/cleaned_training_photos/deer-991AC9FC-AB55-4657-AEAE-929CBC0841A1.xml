@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>deer-991AC9FC-AB55-4657-AEAE-929CBC0841A1.jpg</filename>
+    <size>
+        <width>634</width>
+        <height>476</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>deer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>221</xmin>
+            <ymin>192</ymin>
+            <xmax>361</xmax>
+            <ymax>439</ymax>
+        </bndbox>
+    </object>
+</annotation>

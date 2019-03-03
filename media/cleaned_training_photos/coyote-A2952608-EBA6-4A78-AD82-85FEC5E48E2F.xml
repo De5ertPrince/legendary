@@ -1,0 +1,36 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>coyote-A2952608-EBA6-4A78-AD82-85FEC5E48E2F.jpg</filename>
+    <size>
+        <width>302</width>
+        <height>167</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>chicken</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>85</xmin>
+            <ymin>62</ymin>
+            <xmax>99</xmax>
+            <ymax>87</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>coyote</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>56</xmin>
+            <ymin>99</ymin>
+            <xmax>152</xmax>
+            <ymax>151</ymax>
+        </bndbox>
+    </object>
+</annotation>

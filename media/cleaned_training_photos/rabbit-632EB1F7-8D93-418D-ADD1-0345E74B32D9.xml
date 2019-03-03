@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>rabbit-632EB1F7-8D93-418D-ADD1-0345E74B32D9.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1200</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>184</xmin>
+            <ymin>371</ymin>
+            <xmax>844</xmax>
+            <ymax>995</ymax>
+        </bndbox>
+    </object>
+</annotation>

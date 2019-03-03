@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>bobcat-5A40A9D2-B863-492F-AB4C-73D94392297F.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1200</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>64</xmin>
+            <ymin>413</ymin>
+            <xmax>872</xmax>
+            <ymax>1035</ymax>
+        </bndbox>
+    </object>
+</annotation>

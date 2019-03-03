@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>mountain_lion-1F067398-86F2-4AE0-86F8-5A3F9EA93A52.jpg</filename>
+    <size>
+        <width>620</width>
+        <height>348</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>227</xmin>
+            <ymin>68</ymin>
+            <xmax>493</xmax>
+            <ymax>238</ymax>
+        </bndbox>
+    </object>
+</annotation>

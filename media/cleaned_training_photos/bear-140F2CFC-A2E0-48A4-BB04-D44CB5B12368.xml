@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>bear-140F2CFC-A2E0-48A4-BB04-D44CB5B12368.jpg</filename>
+    <size>
+        <width>2100</width>
+        <height>1420</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bobcat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>336</xmin>
+            <ymin>320</ymin>
+            <xmax>1655</xmax>
+            <ymax>1289</ymax>
+        </bndbox>
+    </object>
+</annotation>

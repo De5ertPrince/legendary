@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>coyote-72D90B12-9146-4B31-9F09-36D36C757401.jpg</filename>
+    <size>
+        <width>1280</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fox</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>473</xmin>
+            <ymin>501</ymin>
+            <xmax>812</xmax>
+            <ymax>759</ymax>
+        </bndbox>
+    </object>
+</annotation>

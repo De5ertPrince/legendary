@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>bobcat-68EB33F4-2EFF-4BAF-854E-1E6166325553.jpg</filename>
+    <size>
+        <width>900</width>
+        <height>506</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bobcat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>472</xmin>
+            <ymin>193</ymin>
+            <xmax>584</xmax>
+            <ymax>282</ymax>
+        </bndbox>
+    </object>
+</annotation>

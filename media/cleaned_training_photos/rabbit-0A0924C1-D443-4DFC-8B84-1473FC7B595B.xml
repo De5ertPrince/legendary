@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>rabbit-0A0924C1-D443-4DFC-8B84-1473FC7B595B.jpg</filename>
+    <size>
+        <width>1620</width>
+        <height>1005</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>deer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>118</xmin>
+            <ymin>148</ymin>
+            <xmax>1019</xmax>
+            <ymax>964</ymax>
+        </bndbox>
+    </object>
+</annotation>

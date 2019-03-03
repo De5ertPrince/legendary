@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>rabbit-7E9EAB7B-F159-426A-B767-13FD3D34129E.jpg</filename>
+    <size>
+        <width>628</width>
+        <height>422</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>rabbit</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>214</xmin>
+            <ymin>28</ymin>
+            <xmax>394</xmax>
+            <ymax>341</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>raccoon-141902FC-7DB2-4938-99FD-757FE63BA530.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>533</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>raccoon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>9</xmin>
+            <ymin>77</ymin>
+            <xmax>502</xmax>
+            <ymax>414</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>raccoon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>478</xmin>
+            <ymin>138</ymin>
+            <xmax>786</xmax>
+            <ymax>415</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,75 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>mountain_lion-D8807CED-4CF2-41D3-9401-E8B6D2BB2F2E.jpg</filename>
+    <size>
+        <width>550</width>
+        <height>310</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>202</xmin>
+            <ymin>113</ymin>
+            <xmax>231</xmax>
+            <ymax>139</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>144</xmin>
+            <ymin>81</ymin>
+            <xmax>198</xmax>
+            <ymax>150</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>235</xmin>
+            <ymin>139</ymin>
+            <xmax>393</xmax>
+            <ymax>310</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>20</xmin>
+            <ymin>129</ymin>
+            <xmax>201</xmax>
+            <ymax>288</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>358</xmin>
+            <ymin>128</ymin>
+            <xmax>547</xmax>
+            <ymax>291</ymax>
+        </bndbox>
+    </object>
+</annotation>

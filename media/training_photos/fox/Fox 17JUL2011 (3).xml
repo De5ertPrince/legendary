@@ -1,0 +1,23 @@
+<annotation>
+    <folder>fox</folder>
+    <filename>Fox 17JUL2011 (3).jpg</filename>
+    <size>
+        <width>639</width>
+        <height>479</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fox</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>270</xmin>
+            <ymin>4</ymin>
+            <xmax>639</xmax>
+            <ymax>361</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>coyote</folder>
+    <filename>images.700,000.jpg</filename>
+    <size>
+        <width>300</width>
+        <height>168</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>coyote</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>195</xmin>
+            <ymin>90</ymin>
+            <xmax>243</xmax>
+            <ymax>158</ymax>
+        </bndbox>
+    </object>
+</annotation>

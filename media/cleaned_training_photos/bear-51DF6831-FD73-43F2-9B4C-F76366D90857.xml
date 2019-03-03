@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>bear-51DF6831-FD73-43F2-9B4C-F76366D90857.jpg</filename>
+    <size>
+        <width>900</width>
+        <height>484</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bear</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>122</xmin>
+            <ymin>23</ymin>
+            <xmax>805</xmax>
+            <ymax>457</ymax>
+        </bndbox>
+    </object>
+</annotation>

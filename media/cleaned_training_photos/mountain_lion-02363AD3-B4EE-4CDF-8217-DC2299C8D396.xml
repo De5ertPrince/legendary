@@ -1,0 +1,36 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>mountain_lion-02363AD3-B4EE-4CDF-8217-DC2299C8D396.jpg</filename>
+    <size>
+        <width>512</width>
+        <height>219</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bobcat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>17</xmin>
+            <ymin>158</ymin>
+            <xmax>156</xmax>
+            <ymax>219</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>deer</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>230</xmin>
+            <ymin>7</ymin>
+            <xmax>425</xmax>
+            <ymax>188</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>bobcat-10FE51E8-B6F2-4A79-8EA8-92B02D7BF9EB.jpg</filename>
+    <size>
+        <width>900</width>
+        <height>484</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>raccoon</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>418</xmin>
+            <ymin>218</ymin>
+            <xmax>578</xmax>
+            <ymax>376</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>bobcat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>10</xmin>
+            <ymin>163</ymin>
+            <xmax>245</xmax>
+            <ymax>362</ymax>
+        </bndbox>
+    </object>
+</annotation>

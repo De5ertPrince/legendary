@@ -1,0 +1,36 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>rabbit-B1745F58-B17B-45EE-B5F1-4CE88F48AAAE.jpg</filename>
+    <size>
+        <width>612</width>
+        <height>410</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>rabbit</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>136</xmin>
+            <ymin>215</ymin>
+            <xmax>224</xmax>
+            <ymax>302</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>rabbit</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>464</xmin>
+            <ymin>261</ymin>
+            <xmax>507</xmax>
+            <ymax>322</ymax>
+        </bndbox>
+    </object>
+</annotation>

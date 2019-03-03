@@ -1,0 +1,23 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>person-66F5C004-B715-4F58-BA6C-BF03C76B1CF3.jpg</filename>
+    <size>
+        <width>634</width>
+        <height>465</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>168</xmin>
+            <ymin>241</ymin>
+            <xmax>210</xmax>
+            <ymax>342</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+    <folder>cleaned_training_photos</folder>
+    <filename>mountain_lion-BB7AE12D-12BC-4133-BF77-7AE74618F06D.jpg</filename>
+    <size>
+        <width>445</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>128</xmin>
+            <ymin>156</ymin>
+            <xmax>139</xmax>
+            <ymax>201</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>94</xmin>
+            <ymin>151</ymin>
+            <xmax>120</xmax>
+            <ymax>201</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>32</xmin>
+            <ymin>147</ymin>
+            <xmax>91</xmax>
+            <ymax>199</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>mountain lion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>177</xmin>
+            <ymin>163</ymin>
+            <xmax>272</xmax>
+            <ymax>230</ymax>
+        </bndbox>
+    </object>
+</annotation>
