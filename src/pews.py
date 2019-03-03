@@ -5,6 +5,8 @@ import re
 import requests
 import json
 import base64
+import time
+import picamera
 
 # git clone https://github.com/AlexeyAB/darknet.git yolo/darknet
 # cd darknet
@@ -63,6 +65,14 @@ def run_yolo(pews_path, image_path, model_type):
     retval = p.wait()
     return results
 
+def take_photo(photo_path):  
+    # Explicitly open a new file called my_image.jpg
+    with picamera.PiCamera() as camera:
+        camera.start_preview()
+        time.sleep(2)
+        camera.capture(photo_path)
+    # At this point my_file.flush() has been called, but the file has
+    # not yet been closed
 
 def is_predator(label):
     if label == 'coyote':
@@ -99,20 +109,16 @@ def main():
     # while true:
     # 1. take photo
     #    and save photo
-    pews_path = '/Users/aaryno/workspace/pews'
-    filename = '/bobcat-E0BB1488-C7A4-437A-8A4D-557D4F00C847.jpg'
-    filename = 'coyote-2C114898-F32F-48E1-B931-B10DF00F275E.jpg'
-    image_path = '../media/cleaned_training_photos/' + filename
-    image_path = '../media/cleaned_training_photos/coyote-91D07D60-5E96-4236-94DB-04B9008B6B01.jpg'
-    image_path = '../media/cleaned_training_photos/bobcat-4C9C99C8-4711-4069-B758-67E0444A538C.jpg'
-    image_path = '../media/cleaned_training_photos/bobcat-B616E5D9-7D4C-4091-8B80-0A6FC534810B.jpg'
+    pews_path = '/home/pi/pews'
+    image_path = '/tmp/camera_out.jpg'
+    take_photo(image_path)
     results = run_yolo(pews_path, image_path, 'pews')
     for label in results:
         print(label + ' was detected with ' + results[label] + ' confidence')
         if is_predator(label):
             print(label + ' IS A PREDATOR! ALERT THE AUTHORITIES!')
             output_image_path = upload_image(pews_path + '/yolo/predictions.jpg')
-            message = 'THERES A A A PREDATOR!!!!!!!!!!!!: ' + label + ' detected with '+ results[label] + '% confidence'
+            message = 'THERES A  PREDATOR!!!!!!!!!!!!: ' + label + ' detected with '+ results[label] + '% confidence'
             send_sms(message, output_image_path)
 
 
