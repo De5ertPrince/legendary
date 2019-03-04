@@ -8,10 +8,6 @@ import base64
 import time
 import picamera
 
-# git clone https://github.com/AlexeyAB/darknet.git yolo/darknet
-# cd darknet
-# make
-
 
 def send_sms(message_string, image_path):
     # Your Account Sid and Auth Token from twilio.com/console
