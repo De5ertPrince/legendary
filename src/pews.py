@@ -1,4 +1,3 @@
-# Download the helper library from https://www.twilio.com/docs/python/install
 from twilio.rest import Client
 import subprocess
 import re
@@ -67,8 +66,6 @@ def take_photo(photo_path):
         camera.start_preview()
         time.sleep(2)
         camera.capture(photo_path)
-    # At this point my_file.flush() has been called, but the file has
-    # not yet been closed
 
 def is_predator(label):
     if label == 'coyote':
